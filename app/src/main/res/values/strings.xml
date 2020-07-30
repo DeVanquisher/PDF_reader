@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Kam Reader</string>
+
+    <string name="about_class">
+    Hey guys!
+    /n This application is used to read the all PDF files present in you mobile.
+        /n/n Developer\n DeVanquisher</string>
 </resources>
